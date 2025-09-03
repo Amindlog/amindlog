@@ -1,13 +1,12 @@
 # 🎯 Amind's GitHub Profile
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+%7C+C%2B%2B+%7C+PHP+%7C+C%23;Building+Amazing+Projects;Open+Source+Contributor)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;%7C+PHP+%7C+C%23;Building+Amazing+Projects;Open+Source+Contributor)
 
-![Snake animation](https://github.com/amindlog/amindlog/blob/output/github-contribution-grid-snake.svg)
 
 ## 🚀 Обо мне
 
 ```yaml
-name: Amind
+name: Александр
 located_in: Russia
 current_job: Full Stack Developer
 education: 
@@ -21,7 +20,6 @@ fields_of_interests:
   - "Open Source"
 
 currently_learning:
-  - "Advanced Java frameworks"
   - "Modern C++ features"
   - "Cloud technologies"
 
@@ -33,7 +31,7 @@ currently_learning:
 
 ## 💻 Технологии
 
-![Technologies](https://skillicons.dev/icons?i=java,cpp,php,cs,git,github,linux,vscode)
+![Technologies](https://skillicons.dev/icons?i=cpp,php,cs,git,github,linux,vscode)
 
 ## 📊 GitHub Analytics
 
@@ -53,7 +51,6 @@ currently_learning:
 
 ### 🔥 Популярные репозитории
 
-- **[cleancode](https://github.com/amindlog/cleancode)** - Java проект по чистому коду
 - **[ProgCHM](https://github.com/amindlog/ProgCHM)** - C++ приложение
 - **[amoCRM](https://github.com/amindlog/amoCRM)** - PHP интеграция с amoCRM
 - **[timer_function](https://github.com/amindlog/timer_function)** - C++ утилита для таймера
