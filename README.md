@@ -1,4 +1,4 @@
-# 🎯 Alexsandr Ponomarev GitHub Profile
+# 🎯 Alexsandr Ponomarev
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;%7C+PHP+%7C+C%23;React;Open+Source;Java+Script;)
 
