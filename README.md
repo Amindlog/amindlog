@@ -10,23 +10,22 @@ name: Александр
 located_in: Russia
 current_job: Full Stack Developer
 education: 
-  - "Self-taught developer"
-  - "Continuous learning enthusiast"
+  - "Self-taught developer" : Самостоятельное обучение, практический опыт, неприрывное развитие.
+  - "Continuous learning enthusiast" : Шаг с новыми технологиями в перспективу будущего. 
   
 fields_of_interests:
-  - "Backend Development"
-  - "System Programming"
-  - "Web Development"
-  - "Open Source"
+  - "Backend Development" : Серверная разработка приложения.
+  - "System Programming" : Разработка программного обеспечения
+  - "Web Development" : Веб приложения
+  - "Open Source" : Открытые проекты
 
 currently_learning:
-  - "Modern C++ features"
-  - "Cloud technologies"
+  - "Modern C++ features":  C++17
+  - "Cloud technologies" : Облочные сервисы
 
-2025_goals:
-  - "Contribute to major open source projects"
-  - "Build a comprehensive portfolio"
-  - "Learn new technologies"
+2025_goals: 
+  - "Build a comprehensive portfolio" : собрал свое портфолио
+  - "Learn new technologies" : изучаю новые технологии
 ```
 
 ## 💻 Технологии
